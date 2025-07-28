@@ -25,7 +25,10 @@ adapun untuk pembuatan design ini dapat langsung di cetak menggunakan file GERBE
       ![image alt](https://github.com/YataMahaSina/Custom-ESP32-PCB/blob/d9ae2e3cd1a75a3cda7783350cf7f9217e52cca2/Tampilan%20Port%20IDE.png)
           
    5. Hasil Pengujian
+      
       https://youtube.com/shorts/7uADrBN9wWA?si=bV4HU14ksSmCY9hc
+      
+      ![videos alt](https://github.com/YataMahaSina/Custom-ESP32-PCB/blob/d86ce376a7f7d9bb606acecb4bbd55ac33537587/Youtube.mp4)
       
 
       
