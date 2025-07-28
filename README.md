@@ -17,7 +17,7 @@ adapun untuk pembuatan design ini dapat langsung di cetak menggunakan file GERBE
       Bertujuan untuk mengetahui apakah rangkaian yang digunakan benar dan mengetahui pin yang
       digunakan melalui gambar dari scematic keseluruhan Board ESP32
    
-      ![image alt](https://github.com/YataMahaSina/Custom-ESP32-PCB/blob/19a639b772cade49ca0011feeec15e9d6455b82a/Schematic_Riset-Downloader-CH340-Yata_2025-07-28.png)
+      ![image alt](https://github.com/YataMahaSina/Custom-ESP32-PCB/blob/7648d190aa18dd8aaed1af054e420be732324efb/Scematic%20ESP32%20Custom.png)
    
    3. Pengecekan USB Driver dari CH340
 
