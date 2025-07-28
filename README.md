@@ -18,6 +18,7 @@ adapun untuk pembuatan design ini dapat langsung di cetak menggunakan file GERBE
    
    2. Pengecekan USB Driver dari CH340
 
+      ![image alt](https://github.com/YataMahaSina/Custom-ESP32-PCB/blob/24949c8412b9455cc2f579e05ceca4b4a56a3615/CH340%20Connecting.PNG)
       
    4. Pengecekan Port USB pada Arduino IDE
 
