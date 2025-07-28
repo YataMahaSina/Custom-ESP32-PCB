@@ -1,4 +1,4 @@
-# Custom-ESP32-PCB
+# Custom ESP32 PCB
 Pembuatan Custom PCB ESP32 ini bertujuan untuk mendapatkan sistem pembuatan jenis design PCB yang dapat digunakan untuk project IoT ataupun Robotik
 adapun untuk pembuatan design ini dapat langsung di cetak menggunakan file GERBER dan PDF yang ada 
 
@@ -27,8 +27,7 @@ adapun untuk pembuatan design ini dapat langsung di cetak menggunakan file GERBE
    5. Hasil Pengujian
       
       https://youtube.com/shorts/7uADrBN9wWA?si=bV4HU14ksSmCY9hc
-      
-      ![videos alt](https://github.com/YataMahaSina/Custom-ESP32-PCB/blob/d86ce376a7f7d9bb606acecb4bbd55ac33537587/Youtube.mp4)
+
       
 
       
