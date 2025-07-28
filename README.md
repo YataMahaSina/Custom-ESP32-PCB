@@ -11,7 +11,7 @@ adapun untuk pembuatan design ini dapat langsung di cetak menggunakan file GERBE
    2. Proses pencetekan design PCB menggunakan PDF
       membuka file PDF langsung yang ada pada repository 
 
-#PROSES PENGUJIAN DESIGN PCB
+# PROSES PENGUJIAN DESIGN PCB
    1. Melakukan pengecekan kembali menggunakan scematic design seperti dibawah ini
    
       ![image alt](https://github.com/YataMahaSina/Custom-ESP32-PCB/blob/19a639b772cade49ca0011feeec15e9d6455b82a/Schematic_Riset-Downloader-CH340-Yata_2025-07-28.png)
