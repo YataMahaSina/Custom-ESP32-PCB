@@ -22,9 +22,11 @@ adapun untuk pembuatan design ini dapat langsung di cetak menggunakan file GERBE
       
    4. Pengecekan Port USB pada Arduino IDE
 
+      ![image alt](https://github.com/YataMahaSina/Custom-ESP32-PCB/blob/d9ae2e3cd1a75a3cda7783350cf7f9217e52cca2/Tampilan%20Port%20IDE.png)
       
    6. Pengujian pemrograman menggunakan Arduino IDE
 
+      
       
    8. Hasil Pengujian
       
